@@ -1,0 +1,10 @@
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.csprojAssemblyReference.cache
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.Game.resources
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.Properties.Resources.resources
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.csproj.GenerateResource.cache
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\bin\Debug\kendincebirseyler.exe.config
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\bin\Debug\kendincebirseyler.exe
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\bin\Debug\kendincebirseyler.pdb
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.exe
+C:\Users\Sefa\source\repos\kendincebirseyler\kendincebirseyler\obj\Debug\kendincebirseyler.pdb
